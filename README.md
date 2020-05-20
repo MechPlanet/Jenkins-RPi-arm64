@@ -1,6 +1,7 @@
-## Jenkins Raspberry Pi image for ARM64 
+## Jenkins for Raspberry Pi for ARM64 
 
-Jenkins for Docker on Raspberry Pi
+Jenkins image for Docker on Raspberry Pi. 
+Tested on Raspberry Pi 3 (arm 64) 
 
 ## build image
 docker build --tag jenkins-arm64:1.0 .
